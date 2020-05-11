@@ -1,0 +1,12 @@
+/Users/linshiajimmy/Desktop/PHP FULL ASSIGNMENT/dotnet/bin/Debug/netcoreapp3.1/dotnet.deps.json
+/Users/linshiajimmy/Desktop/PHP FULL ASSIGNMENT/dotnet/bin/Debug/netcoreapp3.1/dotnet.runtimeconfig.json
+/Users/linshiajimmy/Desktop/PHP FULL ASSIGNMENT/dotnet/bin/Debug/netcoreapp3.1/dotnet.runtimeconfig.dev.json
+/Users/linshiajimmy/Desktop/PHP FULL ASSIGNMENT/dotnet/bin/Debug/netcoreapp3.1/dotnet.dll
+/Users/linshiajimmy/Desktop/PHP FULL ASSIGNMENT/dotnet/bin/Debug/netcoreapp3.1/dotnet.pdb
+/Users/linshiajimmy/Desktop/PHP FULL ASSIGNMENT/dotnet/obj/Debug/netcoreapp3.1/dotnet.csprojAssemblyReference.cache
+/Users/linshiajimmy/Desktop/PHP FULL ASSIGNMENT/dotnet/obj/Debug/netcoreapp3.1/dotnet.csproj.CoreCompileInputs.cache
+/Users/linshiajimmy/Desktop/PHP FULL ASSIGNMENT/dotnet/obj/Debug/netcoreapp3.1/dotnet.AssemblyInfoInputs.cache
+/Users/linshiajimmy/Desktop/PHP FULL ASSIGNMENT/dotnet/obj/Debug/netcoreapp3.1/dotnet.AssemblyInfo.cs
+/Users/linshiajimmy/Desktop/PHP FULL ASSIGNMENT/dotnet/obj/Debug/netcoreapp3.1/dotnet.dll
+/Users/linshiajimmy/Desktop/PHP FULL ASSIGNMENT/dotnet/obj/Debug/netcoreapp3.1/dotnet.pdb
+/Users/linshiajimmy/Desktop/PHP FULL ASSIGNMENT/dotnet/obj/Debug/netcoreapp3.1/dotnet.genruntimeconfig.cache
