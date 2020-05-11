@@ -9,12 +9,12 @@ namespace parser_c__assignment
         {
 
 
-            bool Input = false;
-            string fileName = "";
+            bool endofinput = false;
             string fileString = "";
+            string fileName = "";
 
 
-            while (!Input)
+            while (!endofinput)
             {
                 Console.WriteLine("Enter the filename");
                 string option = Console.ReadLine();
@@ -38,7 +38,7 @@ namespace parser_c__assignment
                             string fileContent = File.ReadAllText(fileName);
                             string[] fileText = fileContent.Split(fileString);
                             string showText = "";
-                            System.Console.WriteLine("in case 2 in if loop");
+
                             foreach (string words in fileText)
                             {
                                 showText = showText + words + " ";
@@ -52,11 +52,11 @@ namespace parser_c__assignment
                         break;
 
                     case "3":
-                        Input = true;
+                        endofinput = true;
                         Console.WriteLine("Exiting the loop");
                         break;
                     default:
-                        Console.WriteLine("Enter invalid entry");
+                        Console.WriteLine("Enter invalid entry choose another InputValue");
                         System.Console.WriteLine("Enter the Option: ");
                         System.Console.WriteLine("Enter the Input, press key number1");
                         System.Console.WriteLine("Enter the string , press key number 2");
